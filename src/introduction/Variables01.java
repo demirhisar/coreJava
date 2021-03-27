@@ -32,7 +32,7 @@ public class Variables01 {
 		System.out.println("---------------------------------------");
 		
 		//Create a double variable
-		double pi = 3.14159265359;
+		double pi = 3.14159265359; //3.14159265359d: we can put "d" its means double. Java accept this, but its not need
 		System.out.println("pi value is: " + pi); //3.14159265359
 		
 		double length = 3.546; //Instead of putting f at the end, you can change data type to double
