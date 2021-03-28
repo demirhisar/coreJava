@@ -20,7 +20,7 @@ public class IncrementandDecrement01 {
 		num02 = num02 + 4;
 		System.out.println(num02); //14
 		num02 = num02 + 5;
-		System.out.println(num02); //29
+		System.out.println(num02); //19
 		
 		System.out.println("-----------------------------");
 		
