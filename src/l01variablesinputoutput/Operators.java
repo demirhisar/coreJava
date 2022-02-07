@@ -26,6 +26,10 @@ public class Operators {
 		b *= 3;
 		System.out.println(b);
 		
+		//modulus: remainder after division
+		System.out.println(a % 3); //0
+		System.out.println(a % 2); //1
+		
 	}
 
 }
