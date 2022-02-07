@@ -1,4 +1,4 @@
-package ifandifelse;
+package l02ifandifelse;
 
 import java.util.Scanner;
 
